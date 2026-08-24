@@ -38,6 +38,14 @@ OPENCODE_API_KEY: sk-...        # OpenCode Go（兼容别名：OPENCODE_GO_API_K
 
 ## 📦 安装
 
+**一键脚本**（macOS/Linux）：
+
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/mrzhangkris/dsh-suanpan/main/install.sh)
+```
+
+**手动安装**：
+
 ```bash
 # 1. 进 web profile
 cd ~/.dsh/profiles/web
@@ -120,6 +128,14 @@ OPENCODE_API_KEY: sk-...     # alias fallback: OPENCODE_GO_API_KEY
 Missing keys degrade gracefully: the corresponding channel shows `n/a`, others keep working.
 
 ### Install
+
+One-liner (macOS/Linux):
+
+```bash
+bash <(curl -sL https://raw.githubusercontent.com/mrzhangkris/dsh-suanpan/main/install.sh)
+```
+
+Or manually:
 
 ```bash
 cd ~/.dsh/profiles/web
