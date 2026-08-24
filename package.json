@@ -1,6 +1,6 @@
 {
   "name": "dsh-suanpan",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "三合一用量监控插件（算盘）：DeepSeek 余额 / MiniMax Coding Plan / OpenCode Go 配额，/usage 命令 + composer 读条 + 悬浮窗面板。Unified usage monitor for DeepSeek balance, MiniMax Coding Plan and OpenCode Go quota in the dsh web GUI.",
   "type": "module",
   "main": "lib/index.js",
