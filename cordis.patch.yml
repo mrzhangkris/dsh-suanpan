@@ -1,0 +1,6 @@
+# 算盘 dsh-suanpan — bundle patch
+
+# Host 端行（在 web profile 的 cordis.patch.yml 中 insert 本块即可启用）
+- insert:
+    - id: suanpan
+      name: 'dsh-suanpan'
